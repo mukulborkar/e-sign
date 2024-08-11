@@ -1,4 +1,4 @@
-html{
+/* html{
     background-color: darkgray;
 }
 
@@ -43,7 +43,6 @@ html{
 }
 
 header {
-    /* position: fixed; */
     top: 0;
     width: 100%;
     background-color: darkgray;
@@ -60,4 +59,4 @@ footer{
     color: white;
     text-align: center;
     padding: 10px 0;
-}
+} */
